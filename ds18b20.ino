@@ -14,7 +14,7 @@ const char* password = "mpeglab10";*/
 
 const char* host = "api.thingspeak.com";
 const char* streamId   = "....................";
-const char* privateKey = "PXH67NH5X3KGRNKW";
+const char* privateKey = ""; /*** 수정필요 ****/
 
 void setup() {
   Serial.begin(115200);
